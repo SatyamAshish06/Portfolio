@@ -1,0 +1,3 @@
+const experience=[{name:"CastleRockIn",start_date:"15 Jan, 2025",end_date:"30 April, 2025",designation:"Technical Trainee",description:"As a Technical Trainee, I gained hands-on experience in web development technologies including React.js, Node.js, and Django. I contributed to the company's first major project—a platform for online exams and course learning—by developing a full-stack support page and assisting with additional core functionalities of the software.",}];
+
+export default experience;

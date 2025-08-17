@@ -1,0 +1,2 @@
+const technical=[{title:"Web Development",skills:["HTML","CSS","React","JavaScript"]},{title:"Programming Languages",skills:["Java","C","SQL"]},{title:"Frameworks",skills:["Django"]}]
+export default technical;
