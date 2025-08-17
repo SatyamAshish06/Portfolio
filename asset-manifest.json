@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.384d0e27.css",
+    "main.js": "/Portfolio/static/js/main.cd313f50.js",
+    "static/js/453.f19e9853.chunk.js": "/Portfolio/static/js/453.f19e9853.chunk.js",
+    "static/media/satyamAshish.png": "/Portfolio/static/media/satyamAshish.b59f51af1d713903cc2c.png",
+    "static/media/Satyam_Ashish_Software_Developer.pdf": "/Portfolio/static/media/Satyam_Ashish_Software_Developer.b366d5b488e27e16f3cd.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.384d0e27.css.map": "/Portfolio/static/css/main.384d0e27.css.map",
+    "main.cd313f50.js.map": "/Portfolio/static/js/main.cd313f50.js.map",
+    "453.f19e9853.chunk.js.map": "/Portfolio/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384d0e27.css",
+    "static/js/main.cd313f50.js"
+  ]
+}
